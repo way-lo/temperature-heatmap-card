@@ -137,6 +137,7 @@ I've made the changes in temperature-heatmap-card.js and after clearing cache, e
 
 <img width="435" height="415" alt="image" src="https://github.com/user-attachments/assets/5c341293-0817-4d8a-a897-394e1e6d1a81" />
 
+Figuring out why the sensor data is not as consistent as before is another problem to tackle.
 
 
 # Temperature Heatmap card for Home Assistant
